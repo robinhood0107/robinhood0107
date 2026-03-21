@@ -111,7 +111,7 @@ Full Stack Developer · AI · Infra · Cloud · FPGA · Automation
 
 ## 📌 Pinned Repo Strategy
 
-- 대표 프런트: `madcamp02-Frontend`, `madcamp-Screening-Humanity-FRONT`, `madcamp4-daw-project`
+- 대표 프런트: `madcamp02-Frontend`, `madcamp-Screening-Humanity-FRONT`
 - 대표 백엔드: `madcamp02-Backend`, `madcamp-Screening-Humanity-BACK`, `madcamp-Screening-Humanity-DATA-SERVICE`
 - AI / 서버: `madcamp02-ai-server`, `madcamp-Screening-Humanity-AI-Server`
 - 임베디드 / 하드웨어: `Morse_Term_Project`
