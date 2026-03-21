@@ -109,7 +109,7 @@ Full Stack Developer · AI · Infra · Cloud · FPGA · Automation
 
 ---
 
-## 📌 Pinned Repo Strategy
+## Repo Strategy
 
 - 대표 프런트: `madcamp02-Frontend`, `madcamp-Screening-Humanity-FRONT`
 - 대표 백엔드: `madcamp02-Backend`, `madcamp-Screening-Humanity-BACK`, `madcamp-Screening-Humanity-DATA-SERVICE`
