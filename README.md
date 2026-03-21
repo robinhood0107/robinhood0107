@@ -35,9 +35,6 @@ Full Stack Developer · AI · Infra · Cloud · FPGA · Automation
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
 </p>
 
 ### Backend / API
