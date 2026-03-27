@@ -10,7 +10,7 @@ Full Stack Developer · AI · Infra · Cloud · FPGA · Automation
 
 ## 📌 About Me
 
-- 웹 서비스(Frontend / Backend), AI, 서버 및 인프라를 중심으로 공부하는 개발자입니다.
+- 웹 서비스(Frontend / Backend), AI, 서버 및 인프라를 중심으로 공부하는 학생입니다.
 - 필요한 간단한 유틸은 만들어 사용하자!
 
 ---
