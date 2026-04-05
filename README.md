@@ -62,15 +62,6 @@ Full Stack Developer · AI · Infra · Cloud · FPGA · Automation
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-## 🧠 Agent Workflow / Prompt Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Multi_Agent-222222?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-222222?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM_Orchestration-222222?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Automation-222222?style=flat-square"/>
-</p>
-
 ---
 
 ## 🌐 Docker Hub
