@@ -66,15 +66,3 @@ Full Stack Developer · AI · Infra · Cloud · FPGA · Automation
 
 ## 🌐 Docker Hub
 <a href="https://hub.docker.com/u/pjjpjj111"> <img src="https://img.shields.io/badge/Docker%20Hub-pjjpjj111-2496ED?style=flat-square&logo=docker&logoColor=white"/> </a>
-
----
-
-## Repo Strategy
-
-- 대표 프런트: `madcamp02-Frontend`, `madcamp-Screening-Humanity-FRONT`
-- 대표 백엔드: `madcamp02-Backend`, `madcamp-Screening-Humanity-BACK`, `madcamp-Screening-Humanity-DATA-SERVICE`
-- AI / 서버: `madcamp02-ai-server`, `madcamp-Screening-Humanity-AI-Server`
-- 임베디드 / 하드웨어: `Morse_Term_Project`
-- 유틸 / 자동화: `drag_and_marge_audio`, `convert-jp2-to-jpg-png-webp`, `npm-docker-server-boot-script-custom`
-`
----
