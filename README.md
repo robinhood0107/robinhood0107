@@ -47,7 +47,7 @@ Full Stack Developer · AI · Infra · Cloud · FPGA · Automation
   <img src="https://img.shields.io/badge/vLLM-222222?style=flat-square&logoColor=white"/>
 </p>
 
-### Mobile / Data / Infra
+### Data / Infra
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
