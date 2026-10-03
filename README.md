@@ -4,9 +4,9 @@
 
 ## ⌨️ Skills 🖱
 
-**Main:** Java · Kotlin · Spring Boot · Python · PostgreSQL
+**Main:** Java · Kotlin · Spring Boot · Python · PostgreSQL · C++20
 
-**Sub:** FastAPI · Docker · Redis · WebSocket · OCR/LLM 연동 · C++20
+**Sub:** FastAPI · Docker · Redis · WebSocket · OCR/LLM 연동
 
 ## 🤖 About Me 🔋
 
